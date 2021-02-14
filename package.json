@@ -2,7 +2,7 @@
   "name": "easygo",
   "version": "1.0.0",
   "description": "This provides easy solutions to make your development easier.",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/ishu-yash/easygo.git"
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ishu-yash/easygo/issues"
   },
-  "homepage": "https://github.com/ishu-yash/easygo#readme"
+  "homepage": "https://github.com/ishu-yash/easygo#readme",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
 }
