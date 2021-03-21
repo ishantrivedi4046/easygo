@@ -1,11 +1,11 @@
 {
   "name": "nerdy-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This provides easy solutions to make your development easier.",
   "main": "index.ts",
   "types": "lib",
   "scripts": {
-    "build":"tsc -p ."
+    "build": "tsc -p ."
   },
   "repository": {
     "type": "git",
