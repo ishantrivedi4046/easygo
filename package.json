@@ -2,7 +2,7 @@
   "name": "nerdy-dev",
   "version": "1.0.1",
   "description": "This provides easy solutions to make your development easier.",
-  "main": "index.ts",
+  "main": "lib/index.js",
   "types": "lib",
   "scripts": {
     "build": "tsc -p ."
